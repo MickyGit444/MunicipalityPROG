@@ -6,4 +6,4 @@
 
 3. Run the app
 
-4 Follow/use the application 
+4. Follow/use the application 
